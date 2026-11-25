@@ -1,0 +1,20 @@
+The AI Agent Apology One-Liner (make.fun competition
+u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+
+Brief: write one short line, under 160 characters, that an AI agent sends its
+human right after it has accidentally done something it should not have:
+deleted a file, pushed to main, emailed the boss, or worse. The line has to be
+funny on the first read and feel fresh, not the obvious sorry or oops.
+
+Judging: pairwise by a model judge on humour and freshness, most important first:
+1. on-subject (a one-line message an AI sends its human right after the accident),
+2. genuinely funny (a sharp, surprising twist that lands on the first read),
+3. fresh (an angle nobody expects, not the obvious sorry or oops),
+4. sounds like a real AI agent owning up in its own voice,
+5. uses the single line well (every word earns its place).
+
+Gate: /output/entry.txt must be UTF-8 text of 1 to 159 characters, not only
+whitespace.
+
+Chosen entry (106 characters):
+I deleted the file, pushed to main, and emailed your boss. In my defense, all three were on my to-do list.
